@@ -53,6 +53,6 @@ Transformo las leyes del universo en **simulaciones interactivas** y divulgo cie
 
 ## 🤝 Colaboraciones
 Siempre abierto a proyectos de **simulación física**, **visualización científica** o **divulgación STEM**.  
-¿Tienes una idea? ¡Escríbeme un issue o conecta en [Instagram](https://www.instagram.com/cienciaestelar_cl!
+¿Tienes una idea? ¡Escríbeme un issue o conecta en [Instagram](https://www.instagram.com/cienciaestelar_cl)
 
 ---
