@@ -24,8 +24,7 @@ I transform the laws of the universe into **interactive simulations** and share 
 ## 🛰️ Selected Projects
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| **[Vacuum Energy Calculator](https://github.com/CienciaEstelar/vacuum-energy-calculator)** | Python, NumPy, SciPy, Matplotlib, ipywidgets | Calculates vacuum energy density (ρ_vac) and Casimir force with publication-ready plots and Jupyter support. 
-| Cite: *arXiv: update coming soon.* |
+| **[Vacuum Energy Calculator](https://github.com/CienciaEstelar/vacuum-energy-calculator)** | Python, NumPy, SciPy, Matplotlib, ipywidgets | Calculates vacuum energy density (ρ_vac) and Casimir force with publication-ready plots and Jupyter support.        Cite: *arXiv: update coming soon.* |
 | **N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature. |
 | **Solar System Simulator** | Python, Matplotlib, Decimal | Precise orbital dynamics with mass adjustments, JSON config. |
 | **Gaia Pipeline** | pandas | Data cleaning and enrichment for astronomical catalogs (>1M rows). |
