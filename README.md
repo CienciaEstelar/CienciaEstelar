@@ -1,1 +1,56 @@
-<p align="center"><img src="https://i.imgur.com/3p2L1Rk.gif" width="800" alt="Simulación de Agujero Negro"></p><h1 align="center">Hola, soy Juan De Dios 👋</h1><p align="center">Estudiante de Ingeniería y Físico aficionado transformando las complejas leyes del universo en simulaciones interactivas y herramientas computacionales. Mi trabajo se centra en la intersección de la física teórica, la computación de alto rendimiento y la visualización de datos para hacer la ciencia más accesible y reproducible.</p><p align="center"><a href="https://www.instagram.com/cienciaestelar_cl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.linkedin.com/in/juan-de-dios-galaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></p>🔭 Proyectos DestacadosProyectoDescripciónTecnologías ClaveVacuum Energy CalculatorHerramienta científica para calcular la densidad de energía del vacío (ρ_vac) y la fuerza de Casimir. Optimizado para investigación y publicación.Python, SciPy, NumPy, Matplotlib, ipywidgetsSimulador de Agujeros Negros N-CuerposVisualización 3D en tiempo real de la curvatura gravitacional y la interacción de múltiples cuerpos alrededor de un agujero negro supermasivo.Python, VPython, NumPySimulador del Sistema SolarModelo de alta precisión de la dinámica orbital del sistema solar, usando el módulo Decimal para minimizar errores de punto flotante.Python, Matplotlib, DecimalPipeline de Datos GaiaProcesamiento y enriquecimiento de catálogos astronómicos del satélite Gaia (>1 millón de filas) para análisis de poblaciones estelares.Python, Pandas, Matplotlib🛠️ Stack TecnológicoComputación Científica: Python, NumPy, SciPy, Pandas, VPythonVisualización de Datos: Matplotlib, Seaborn, PlotlyDesarrollo y CI/CD: Git, GitHub, GitHub ActionsInteligencia Artificial Generativa: Vertex AI (Gemini), Azure OpenAI, LangChain🎓 Certificaciones RecientesGoogle Cloud: Multimodality & RAG, Prompt Design in Vertex AI (Jun 2024)Microsoft Learn: Copilot Studio & Azure AI Studio, Azure OpenAI Service (Mar-May 2024)🌌 Divulgación y MentoríaCreador de Contenido en @cienciaestelar_cl, una comunidad con más de 5,300 seguidores dedicada a la astronomía.Mentor en Academia Into Space, impartiendo cursos gratuitos de astronomía para entusiastas.📈 Estadísticas de GitHub<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CienciaEstelar&show_icons=true&theme=dracula&count_private=true" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CienciaEstelar&layout=compact&theme=dracula" height="165"></p><p align="center">Estoy siempre abierto a colaborar en proyectos de simulación física, visualización científica o divulgación STEM. Si tienes una idea, ¡hablemos!</p>
+<p align="center">
+  <img src="agujeronegro.gif" width="650" alt="Black-hole simulation banner">
+</p>
+
+# 👋 Hey, I'm Juan De Dios  
+_Amateur physicist & Engineering student (USACH)_  
+Crafting **interactive simulations** to unravel the universe and sharing science with everyone, from kids to cosmic enthusiasts.
+
+## 🚀 Tech Stack & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white)
+![VPython](https://img.shields.io/badge/-VPython-red)
+![Pygame](https://img.shields.io/badge/-Pygame-008080?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=googlecloud&logoColor=white)
+![Copilot](https://img.shields.io/badge/-Copilot-512BD4?logo=microsoft&logoColor=white)
+
+## 🪐 Featured Projects
+| Project | Tech | What's It About? |
+|---------|------|--------------------|
+| **[Vacuum Energy Calculator](https://github.com/CienciaEstelar/vacuum-energy-calculator)** | Python, NumPy, SciPy, Matplotlib, ipywidgets | Computes vacuum energy density (ρ_vac) and Casimir force with publication-ready plots and Jupyter widgets. *arXiv* citation coming soon! |
+| **N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature around black holes. |
+| **Solar System Simulator** | Python, Matplotlib, Decimal | High-precision orbital dynamics with customizable masses and JSON configs. |
+| **Gaia Pipeline** | pandas | Cleans and enriches astronomical catalogs (>1M rows) for stellar analysis. |
+| **MegaTetris** | Pygame, NumPy | MVC-based Tetris in 500 lines, featuring wall-kicks and a sleek HUD. |
+
+➡️ Check out the code in my **Pinned Repositories**!
+
+## 🎓 Recent Certifications
+- Google Cloud • _Multimodality & RAG_ (06/2024)  
+- Google Cloud • _Prompt Design in Vertex AI_ (06/2024)  
+- Microsoft Learn • _Copilot Studio & Azure AI Studio_ (05/2024)  
+- Microsoft Learn • _Azure OpenAI Service / Generative AI_ (03/2024)  
+
+## 🌠 Outreach & Mentorship
+- **Mentor** at [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space) – Free astronomy courses for curious minds.  
+- **Content Creator** on Instagram: [@cienciaestelar_cl](https://instagram.com/cienciaestelar_cl) – Inspiring +5,300 followers with cosmic content.  
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CienciaEstelar&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CienciaEstelar&layout=compact&theme=radical" height="165">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CienciaEstelar&color=blue" alt="Profile views" />
+</p>
+
+## 🤝 Let's Collaborate!
+Passionate about **physical simulations**, **scientific visualization**, or **STEM outreach**? Let's build something stellar!  
+Drop an issue or hit me up on [Instagram](https://www.instagram.com/cienciaestelar_cl).
