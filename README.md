@@ -25,8 +25,20 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 | Project | Tech | What's It About? |
 |---------|------|------------------|
 | **[🔬 Vacuum Energy Toolkit](https://github.com/CienciaEstelar/vacuum-energy-calculator)**<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15905543.svg)](https://doi.org/10.5281/zenodo.15905543) | **Python Core**<br>• NumPy<br>• SciPy<br>• Matplotlib<br>**Advanced**<br>• Joblib<br>• Uncertainties | **Scientific-Grade QG Modeling (v22.0)**<br>• Computes ρ_vac & Casimir force with physical corrections<br>• Generates 13 publication-ready plots<br>• Validated against Lamoreaux data<br>• DOI: [10.5281/zenodo.15905543](https://doi.org/10.5281/zenodo.15905543) |
+| **🎮 MegaTetris Mejorado** | **Python**<br>• Pygame<br>• NumPy | **Tetris profesional en 500 líneas**<br>• Sistema 7-Bag + Hold<br>• Wall-kick simplificado<br>• Arquitectura MVC limpia<br>• [Código comentado en español](https://github.com/CienciaEstelar/Tetris/blob/main/MegaTetris.py) |
 | **⚫ N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature around black holes |
 | **🌌 Solar System Simulator** | Python, Matplotlib | High-precision orbital dynamics with customizable masses |
+|**📜 MegaTetris** | Python, Pygame, Numpy |
+<details>
+<summary>
+
+
+# Características destacadas
+- ✅ Sistema de niveles progresivo
+- ✅ Puntuación dinámica (más puntos en niveles altos)
+- ✅ Hold estratégico + 7-Bag randomizer
+- ✅ Wall-kick para rotaciones realistas
+- ✅ HUD minimalista con next-piece preview
 
 ➡️ Check out the code in my **Pinned Repositories**!
 
@@ -53,3 +65,5 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 ## 🤝 Let's Collaborate!
 Passionate about **physical simulations**, **scientific visualization**, or **STEM outreach**? Let's build something stellar!  
 Drop an issue or hit me up on [Instagram](https://www.instagram.com/cienciaestelar_cl).
+
+```python
