@@ -40,8 +40,8 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 
 ## 🌠 Outreach & Mentorship
 - **Mentor** at [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space) – Free astronomy courses for curious minds.  
-- **Content Creator** on Instagram and tik tok: [@cienciaestelar_cl](https://instagram.com/cienciaestelar_cl)  – Inspiring +5,200 followers with cosmic content.
-- TIK TOK -> [@cienciaestelar_cl](https://www.tiktok.com/@cienciaestelar_cl)
+- **Content Creator** on Instagram: [@cienciaestelar_cl](https://instagram.com/cienciaestelar_cl)  – Inspiring +5,200 followers with cosmic content.
+- **TIK TOK** --->  [@cienciaestelar_cl](https://www.tiktok.com/@cienciaestelar_cl)
 
 ## 📊 GitHub Stats
 <p align="center">
