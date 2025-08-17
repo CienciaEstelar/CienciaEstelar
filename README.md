@@ -23,12 +23,10 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 
 ## 🪐 Featured Projects
 | Project | Tech | What's It About? |
-|---------|------|--------------------|
-| **[Vacuum Energy Calculator(v22.0)](https://github.com/CienciaEstelar/vacuum-energy-calculator)** | Python, NumPy, SciPy, Matplotlib, ipywidgets | Computes vacuum energy density (ρ_vac) and Casimir force with publication-ready plots and Jupyter widgets. [*arXiv* citation coming soon!](https://doi.org/10.5281/zenodo.15905543) |
-| **N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature around black holes. |
-| **Solar System Simulator** | Python, Matplotlib, Decimal | High-precision orbital dynamics with customizable masses and JSON configs. |
-| **Gaia Pipeline** | pandas | Cleans and enriches astronomical catalogs (>1M rows) for stellar analysis. |
-| **MegaTetris** | Pygame, NumPy | MVC-based Tetris in 500 lines, featuring wall-kicks and a sleek HUD. |
+|---------|------|------------------|
+| **[🔬 Vacuum Energy Toolkit](https://github.com/CienciaEstelar/vacuum-energy-calculator)**<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15905543.svg)](https://doi.org/10.5281/zenodo.15905543) | **Python Core**<br>• NumPy<br>• SciPy<br>• Matplotlib<br>**Advanced**<br>• Joblib<br>• Uncertainties | **Scientific-Grade QG Modeling (v22.0)**<br>• Computes ρ_vac & Casimir force with physical corrections<br>• Generates 13 publication-ready plots<br>• Validated against Lamoreaux data<br>• DOI: [10.5281/zenodo.15905543](https://doi.org/10.5281/zenodo.15905543) |
+| **⚫ N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature around black holes |
+| **🌌 Solar System Simulator** | Python, Matplotlib | High-precision orbital dynamics with customizable masses |
 
 ➡️ Check out the code in my **Pinned Repositories**!
 
