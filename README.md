@@ -4,7 +4,9 @@
 
 # 👋 Hey, I'm Juan De Dios  
 _Amateur physicist & Engineering student (USACH)_  
-Crafting **interactive simulations** to unravel the universe and sharing science with everyone, from kids to cosmic enthusiasts.
+Crafting **interactive simulations** to unravel the universe and sharing science with everyone — from kids to cosmic enthusiasts.
+
+---
 
 ## 🚀 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -21,26 +23,21 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=googlecloud&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-Copilot-512BD4?logo=microsoft&logoColor=white)
 
+---
+
 ## 🪐 Featured Projects
+
 | Project | Tech | What's It About? |
 |---------|------|------------------|
-| **[🔬 Vacuum Energy Toolkit](https://github.com/CienciaEstelar/vacuum-energy-calculator)**<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15905543.svg)](https://doi.org/10.5281/zenodo.15905543) | **Python Core**<br>• NumPy<br>• SciPy<br>• Matplotlib<br>**Advanced**<br>• Joblib<br>• Uncertainties | **Scientific-Grade QG Modeling (v22.0)**<br>• Computes ρ_vac & Casimir force with physical corrections<br>• Generates 13 publication-ready plots<br>• Validated against Lamoreaux data<br>• DOI: [10.5281/zenodo.15905543](https://doi.org/10.5281/zenodo.15905543) |
+| **[🌌 DVT-GP-Ultra](https://github.com/CienciaEstelar/DVT-GP-Ultra)** | **Python Core**<br>• NumPy<br>• SciPy<br>• SymPy<br>• Matplotlib<br>**Advanced**<br>• scikit-learn<br>• Optuna<br>• ReportLab | **Dynamic Vacuum Toolkit (DVT) - GP Ultra Framework**<br>Entrenamiento y validación de modelos de Proceso Gaussiano (GP) aplicados a Energía Oscura Dinámica.<br>Incluye validaciones adversariales, simbólicas y reporte automático en PDF. |
+| **[🧠 DVT-Toolkit](https://github.com/CienciaEstelar/DVT-toolkit)** | **Python**<br>• NumPy<br>• SciPy<br>• MCMC<br>• Matplotlib | Toolkit completo de inferencia cosmológica escalar-tensor. Integra derivación simbólica, integración numérica y análisis estadístico MCMC de modelos de Energía Oscura. |
+| **[🔷 Geometría Causal-Informacional](https://github.com/CienciaEstelar/Geometria_Causal_Informacional)** | **LaTeX**<br>• Python<br>• SymPy | Marco teórico falsable que unifica gravedad cuántica, termodinámica e información. Implementa el concepto de **acción por ciclo** y derivación simbólica RG completa. |
+| **[🔬 Vacuum Energy Toolkit](https://github.com/CienciaEstelar/vacuum-energy-calculator)**<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15905543.svg)](https://doi.org/10.5281/zenodo.15905543) | **Python Core**<br>• NumPy<br>• SciPy<br>• Matplotlib | **Scientific-Grade QG Modeling (v22.0)**<br>Computa ρ_vac & fuerza de Casimir con correcciones físicas.<br>Genera 13 gráficos “publication-ready”. Validado con datos de Lamoreaux. |
 | **🎮 MegaTetris Mejorado** | **Python**<br>• Pygame<br>• NumPy | **Tetris profesional en 500 líneas**<br>• Sistema 7-Bag + Hold<br>• Wall-kick simplificado<br>• Arquitectura MVC limpia<br>• [Código comentado en español](https://github.com/CienciaEstelar/Tetris/blob/main/MegaTetris.py) |
-| **⚫ N-Body Black Hole Simulation** | Python, VPython | Real-time 3D visualization of gravitational curvature around black holes |
-| **🌌 Solar System Simulator** | Python, Matplotlib | High-precision orbital dynamics with customizable masses |
-|**📜 MegaTetris** | Python, Pygame, Numpy |
-<details>
-<summary>
+| **⚫ N-Body Black Hole Simulation** | Python, VPython | Visualización 3D en tiempo real de curvatura gravitacional alrededor de agujeros negros. |
+| **🌌 Solar System Simulator** | Python, Matplotlib | Dinámica orbital de alta precisión con masas personalizables. |
 
-
-# Características destacadas
-- ✅ Sistema de niveles progresivo
-- ✅ Puntuación dinámica (más puntos en niveles altos)
-- ✅ Hold estratégico + 7-Bag randomizer
-- ✅ Wall-kick para rotaciones realistas
-- ✅ HUD minimalista con next-piece preview
-
-➡️ Check out the code in my **Pinned Repositories**!
+---
 
 ## 🎓 Recent Certifications
 - Google Cloud • _Multimodality & RAG_ (06/2024)  
@@ -48,10 +45,14 @@ Crafting **interactive simulations** to unravel the universe and sharing science
 - Microsoft Learn • _Copilot Studio & Azure AI Studio_ (05/2024)  
 - Microsoft Learn • _Azure OpenAI Service / Generative AI_ (03/2024)  
 
+---
+
 ## 🌠 Outreach & Mentorship
 - **Mentor** at [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space) – Free astronomy courses for curious minds.  
-- **Content Creator** on Instagram: [@cienciaestelar_cl](https://instagram.com/cienciaestelar_cl)  – Inspiring +5,200 followers with cosmic content.
-- **TIK TOK** --->  [@cienciaestelar_cl](https://www.tiktok.com/@cienciaestelar_cl)
+- **Content Creator** on Instagram: [@cienciaestelar_cl](https://instagram.com/cienciaestelar_cl) – Inspiring +5,200 followers with cosmic content.  
+- **TikTok** → [@cienciaestelar_cl](https://www.tiktok.com/@cienciaestelar_cl)
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -62,8 +63,9 @@ Crafting **interactive simulations** to unravel the universe and sharing science
   <img src="https://komarev.com/ghpvc/?username=CienciaEstelar&color=blue" alt="Profile views" />
 </p>
 
-## 🤝 Let's Collaborate!
-Passionate about **physical simulations**, **scientific visualization**, or **STEM outreach**? Let's build something stellar!  
-Drop an issue or hit me up on [Instagram](https://www.instagram.com/cienciaestelar_cl).
+---
 
-```python
+## 🤝 Let's Collaborate!
+Passionate about **physical simulations**, **scientific visualization**, or **STEM outreach**?  
+Let’s build something stellar together 🌠  
+👉 Drop an issue or hit me up on [Instagram](https://www.instagram.com/cienciaestelar_cl).
