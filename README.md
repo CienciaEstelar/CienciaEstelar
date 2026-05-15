@@ -44,7 +44,7 @@ ORCID: `0009-0007-7474-7560` · Zenodo: [4+ publicaciones](https://zenodo.org)
 <tr>
 <td width="50%">
 
-### 🌌 Dark Forest MC
+### 🌌 [Dark Forest MC](https://github.com/CienciaEstelar/dark-forest-mc)
 Simulacion Monte Carlo de la hipotesis del Bosque Oscuro (Paradoja de Fermi). N-body con sensibilidad Sobol, analisis GHZ, paper MNRAS-ready. **Δr = −0.54 (27σ).**
 
 `Python` `NumPy` `SALib` `cKDTree`
@@ -52,8 +52,8 @@ Simulacion Monte Carlo de la hipotesis del Bosque Oscuro (Paradoja de Fermi). N-
 </td>
 <td width="50%">
 
-### 🔬 Vacio Cuantico / DVT
-Densidad de energia del vacio UV-regularizada, fuerza de Casimir, reinterpretacion de Planck. Paquete `vacuumpy` standalone.
+### 🔬 [Vacio Cuantico](https://github.com/CienciaEstelar/vacio-cuantico)
+Densidad de energia del vacio UV-regularizada, fuerza de Casimir, reinterpretacion de Planck. Paquete [`vacuumpy`](https://github.com/CienciaEstelar/vacuumpy) standalone.
 
 `Python` `SymPy` `Gaussian Processes` `LaTeX`
 
@@ -62,7 +62,7 @@ Densidad de energia del vacio UV-regularizada, fuerza de Casimir, reinterpretaci
 <tr>
 <td width="50%">
 
-### ⛏️ Proyecto Minero 4.0
+### ⛏️ [Proyecto Minero 4.0](https://github.com/CienciaEstelar/proyecto_minero_4.0)
 Soft-sensor con Gaussian Processes para recuperacion en flotacion. **R² = 0.9695, MAPE = 1.46%.** Pipeline industrial con validacion externa.
 
 `Python` `GP` `pandas` `Optuna`
@@ -70,8 +70,8 @@ Soft-sensor con Gaussian Processes para recuperacion en flotacion. **R² = 0.969
 </td>
 <td width="50%">
 
-### 🌌 DVT-GP-Ultra
-Framework de inferencia cosmologica con GP + validaciones adversariales + reportes PDF. DOI: `10.5281/zenodo.17291901`
+### 🌌 [DVT-GP-Ultra](https://github.com/CienciaEstelar/DVT-GP-Ultra)
+Framework de inferencia cosmologica con GP + validaciones adversariales + reportes PDF. [DOI: 10.5281/zenodo.17291901](https://doi.org/10.5281/zenodo.17291901)
 
 `Python` `scikit-learn` `SymPy`
 
@@ -80,15 +80,15 @@ Framework de inferencia cosmologica con GP + validaciones adversariales + report
 <tr>
 <td width="50%">
 
-### 🧠 DVT-Toolkit
-Toolkit cosmologia escalar-tensor con derivacion simbolica, MCMC, y validacion estadistica. DOI: `10.5281/zenodo.17291785`
+### 🧠 [DVT-Toolkit](https://github.com/CienciaEstelar/DVT-toolkit)
+Toolkit cosmologia escalar-tensor con derivacion simbolica, MCMC, y validacion estadistica. [DOI: 10.5281/zenodo.17291785](https://doi.org/10.5281/zenodo.17291785)
 
 `Python` `MCMC` `NumPy`
 
 </td>
 <td width="50%">
 
-### 🔷 Geometria Causal-Informacional
+### 🔷 [Geometria Causal-Informacional](https://github.com/CienciaEstelar/Geometria_Causal_Informacional)
 Marco teorico falsable conectando gravedad, termodinamica e informacion. Derivacion RG completa.
 
 `LaTeX` `Python` `SymPy`
