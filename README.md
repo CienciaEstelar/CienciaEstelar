@@ -20,13 +20,14 @@ Trabajo en la interseccion entre **sistemas cuantitativos, fisica computacional 
 
 Areas activas:
 
+* Propulsion interestelar (warp drives, velas laser, beam-riding)
 * Sistemas cuantitativos adaptativos (crypto + equities)
 * Gaussian Processes y machine learning con base fisica
 * Simulaciones cosmologicas y modelos de energia oscura
 * Soft-sensors industriales para mineria
 * Divulgacion cientifica y educacion STEM
 
-ORCID: `0009-0007-7474-7560` · Zenodo: [4+ publicaciones](https://zenodo.org)
+ORCID: `0009-0007-7474-7560` · Zenodo: [10 publicaciones](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)
 
 ---
 
@@ -44,36 +45,54 @@ ORCID: `0009-0007-7474-7560` · Zenodo: [4+ publicaciones](https://zenodo.org)
 <tr>
 <td width="50%">
 
-### 🌌 [Dark Forest MC](https://github.com/CienciaEstelar/dark-forest-mc)
-Simulacion Monte Carlo de la hipotesis del Bosque Oscuro (Paradoja de Fermi). N-body con sensibilidad Sobol, analisis GHZ, paper MNRAS-ready. **Δr = −0.54 (27σ).**
+### 🚀 [Propulsion Interestelar](https://github.com/CienciaEstelar/propulsion-interestelar)
+Revision de 28 conceptos de propulsion interestelar con 146 referencias. **Score: 8.6/10.** Codigo Python reproducible. [DOI: 10.5281/zenodo.20435538](https://doi.org/10.5281/zenodo.20435538)
 
-`Python` `NumPy` `SALib` `cKDTree`
+`Python` `LaTeX` `Jupyter`
 
 </td>
 <td width="50%">
 
-### 🔬 [Vacio Cuantico](https://github.com/CienciaEstelar/vacio-cuantico)
-Densidad de energia del vacio UV-regularizada, fuerza de Casimir, reinterpretacion de Planck. Paquete [`vacuumpy`](https://github.com/CienciaEstelar/vacuumpy) standalone.
+### 🔬 [Beam-Riding Gap Analysis](https://github.com/CienciaEstelar/beam-riding-gap)
+Brecha experimental en velas laser interestelares. Beam-riding **nunca observado**. 5 experimentos propuestos. **Score: 9.1/10.** [DOI: 10.5281/zenodo.20450485](https://doi.org/10.5281/zenodo.20450485)
 
-`Python` `SymPy` `Gaussian Processes` `LaTeX`
+`Python` `TMM` `RCWA`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⛏️ [Proyecto Minero 4.0](https://github.com/CienciaEstelar/proyecto_minero_4.0)
-Soft-sensor con Gaussian Processes para recuperacion en flotacion. **R² = 0.9695, MAPE = 1.46%.** Pipeline industrial con validacion externa.
+### 📊 [BOS(5) Alpha Estructural](https://zenodo.org/records/20361451)
+Validacion cuantitativa multi-activo con 90,000 simulaciones Monte Carlo. S&P 500 (98 anos), Bitcoin, altcoins. [DOI: 10.5281/zenodo.20361451](https://doi.org/10.5281/zenodo.20361451)
 
-`Python` `GP` `pandas` `Optuna`
+`Python` `Monte Carlo` `Bootstrap`
 
 </td>
 <td width="50%">
 
-### 🌌 [DVT-GP-Ultra](https://github.com/CienciaEstelar/DVT-GP-Ultra)
-Framework de inferencia cosmologica con GP + validaciones adversariales + reportes PDF. [DOI: 10.5281/zenodo.17291901](https://doi.org/10.5281/zenodo.17291901)
+### 🌌 [Dark Forest MC](https://github.com/CienciaEstelar/dark-forest-mc)
+Simulacion Monte Carlo de la hipotesis del Bosque Oscuro (Paradoja de Fermi). N-body con sensibilidad Sobol, analisis GHZ, paper MNRAS-ready. **Δr = −0.54 (27σ).**
 
-`Python` `scikit-learn` `SymPy`
+`Python` `NumPy` `SALib` `cKDTree`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧪 [bayesgp](https://github.com/CienciaEstelar/bayesgp)
+Bayesian Model Averaging sobre portfolio de Gaussian Process regressors. 43 tests, CI/CD. [DOI: 10.5281/zenodo.20320144](https://doi.org/10.5281/zenodo.20320144)
+
+`Python` `GP` `scikit-learn`
+
+</td>
+<td width="50%">
+
+### ⛏️ [Proyecto Minero 4.0](https://github.com/CienciaEstelar/proyecto_minero_4.0)
+Soft-sensor con Gaussian Processes para recuperacion en flotacion. **R² = 0.9695, MAPE = 1.46%.** Pipeline industrial con validacion externa.
+
+`Python` `GP` `pandas` `Optuna`
 
 </td>
 </tr>
