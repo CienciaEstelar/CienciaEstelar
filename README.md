@@ -116,6 +116,28 @@ Marco teorico falsable conectando gravedad, termodinamica e informacion. Derivac
 </tr>
 </table>
 
+### Evolucion de proyectos legacy
+
+| Proyecto original | Estado | Evolucion |
+|---|---|---|
+| `h como Evento Elemental` (2025) | Rechazado (overfitting) | → [`vacuumpy`](https://github.com/CienciaEstelar/vacuumpy) + [`vacio-cuantico`](https://github.com/CienciaEstelar/vacio-cuantico) |
+| `vacuum_energy.py` (2025) | Superado | → [`vacuumpy`](https://github.com/CienciaEstelar/vacuumpy) (paquete limpio, mantenido) |
+| `Espejo de Silicio` (2025) | Final | 185 descargas. Investigacion independiente en metacognicion IA. No requiere actualizacion. |
+
+---
+
+## 📚 Publicaciones en Zenodo
+
+**[10 publicaciones](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)** con DOI. Las mas recientes:
+
+| Fecha | DOI | Titulo |
+|---|---|---|
+| 2026-05-29 | `10.5281/zenodo.20450485` | Beam-Riding Gap Analysis |
+| 2026-05-28 | `10.5281/zenodo.20435538` | De Alcubierre a la Ingenieria |
+| 2026-05-24 | `10.5281/zenodo.20361451` | BOS(5) Alpha Estructural |
+| 2026-05-21 | `10.5281/zenodo.20320144` | bayesgp |
+| 2026-05-21 | `10.5281/zenodo.20320142` | vacuumpy |
+
 ---
 
 ## 📊 Actividad
