@@ -131,6 +131,7 @@ Marco teorico falsable conectando gravedad, termodinamica e informacion. Derivac
 
 | Fecha | Publicacion | DOI | Repo |
 |---|---|---|---|
+| 2026-05-29 | Dark Forest MC (MNRAS-ready) | [10.5281/zenodo.20451755](https://doi.org/10.5281/zenodo.20451755) | [dark-forest-mc](https://github.com/CienciaEstelar/dark-forest-mc) |
 | 2026-05-29 | Beam-Riding Gap Analysis | [10.5281/zenodo.20450485](https://doi.org/10.5281/zenodo.20450485) | [beam-riding-gap](https://github.com/CienciaEstelar/beam-riding-gap) |
 | 2026-05-28 | De Alcubierre a la Ingenieria | [10.5281/zenodo.20435538](https://doi.org/10.5281/zenodo.20435538) | [propulsion-interestelar](https://github.com/CienciaEstelar/propulsion-interestelar) |
 | 2026-05-24 | BOS(5) Alpha Estructural | [10.5281/zenodo.20361451](https://doi.org/10.5281/zenodo.20361451) | --- |
