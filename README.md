@@ -126,17 +126,17 @@ Marco teorico falsable conectando gravedad, termodinamica e informacion. Derivac
 
 ---
 
-## 📚 Publicaciones en Zenodo
 
-**[10 publicaciones](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)** con DOI. Las mas recientes:
+**[Ver perfil completo en Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)** (10 publicaciones con DOI).
 
-| Fecha | DOI | Titulo |
-|---|---|---|
-| 2026-05-29 | `10.5281/zenodo.20450485` | Beam-Riding Gap Analysis |
-| 2026-05-28 | `10.5281/zenodo.20435538` | De Alcubierre a la Ingenieria |
-| 2026-05-24 | `10.5281/zenodo.20361451` | BOS(5) Alpha Estructural |
-| 2026-05-21 | `10.5281/zenodo.20320144` | bayesgp |
-| 2026-05-21 | `10.5281/zenodo.20320142` | vacuumpy |
+| Fecha | Publicacion | DOI | Repo |
+|---|---|---|---|
+| 2026-05-29 | Beam-Riding Gap Analysis | [10.5281/zenodo.20450485](https://doi.org/10.5281/zenodo.20450485) | [beam-riding-gap](https://github.com/CienciaEstelar/beam-riding-gap) |
+| 2026-05-28 | De Alcubierre a la Ingenieria | [10.5281/zenodo.20435538](https://doi.org/10.5281/zenodo.20435538) | [propulsion-interestelar](https://github.com/CienciaEstelar/propulsion-interestelar) |
+| 2026-05-24 | BOS(5) Alpha Estructural | [10.5281/zenodo.20361451](https://doi.org/10.5281/zenodo.20361451) | --- |
+| 2026-05-21 | bayesgp | [10.5281/zenodo.20320144](https://doi.org/10.5281/zenodo.20320144) | [bayesgp](https://github.com/CienciaEstelar/bayesgp) |
+| 2026-05-21 | vacuumpy | [10.5281/zenodo.20320142](https://doi.org/10.5281/zenodo.20320142) | [vacuumpy](https://github.com/CienciaEstelar/vacuumpy) |
+
 
 ---
 
