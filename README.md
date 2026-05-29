@@ -27,7 +27,7 @@ Areas activas:
 * Soft-sensors industriales para mineria
 * Divulgacion cientifica y educacion STEM
 
-ORCID: `0009-0007-7474-7560` · Zenodo: [10 publicaciones](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)
+ORCID: `0009-0007-7474-7560` · Zenodo: [11 publicaciones](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)
 
 ---
 
