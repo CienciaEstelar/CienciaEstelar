@@ -127,7 +127,7 @@ Marco teorico falsable conectando gravedad, termodinamica e informacion. Derivac
 ---
 
 
-**[Ver perfil completo en Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)** (10 publicaciones con DOI).
+**[Ver perfil completo en Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Galaz,%20Juan%22)** (11 publicaciones con DOI).
 
 | Fecha | Publicacion | DOI | Repo |
 |---|---|---|---|
