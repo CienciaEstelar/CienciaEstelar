@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="agujeronegro.gif" width="650" alt="Simulacion de agujero negro">
+  <img src="agujeronegro.gif" width="950" alt="Simulacion de agujero negro">
 </p>
 
 # 👋 Hola, soy Juan de Dios
